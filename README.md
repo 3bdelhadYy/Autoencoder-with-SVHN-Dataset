@@ -91,7 +91,7 @@ They learn useful features without labels and are used for:
 ---
 
 ## 📁 Project Structure
-├── Autoencoder with SVHN Dataset.ipynb
+├── Autoencoder_with_SVHN_Dataset.ipynb
 ├── Autoencoder_with_SVHN_Dataset_Report.pdf
 └── README.md
 
